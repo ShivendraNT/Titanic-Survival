@@ -80,7 +80,9 @@ Run the script:
 python titanic.py
 
 📫 Contact
+
 👤 Shivendra
+
 📧 [shivendra.tripathi767@gmail.com]
 
 
