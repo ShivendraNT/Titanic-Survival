@@ -48,3 +48,10 @@ Key preprocessing steps:
   ```python
   {'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 103}
 
+📈 Visualizations
+
+Countplot of predicted survival distribution
+Pie chart showing proportion of predicted survivors vs non-survivors
+
+
+
