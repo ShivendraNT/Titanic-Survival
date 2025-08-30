@@ -51,12 +51,12 @@ Key preprocessing steps:
 📈 Visualizations
 
 Countplot of predicted survival distribution.
+[Countplot](image-1.png)
 
 Pie chart showing proportion of predicted survivors vs non-survivors
+[Pie Chart](image.png)
 
-[alt text](image.png)
 
-[alt text](image-1.png)
 
 🚀 How to Run
 Clone the repository:
