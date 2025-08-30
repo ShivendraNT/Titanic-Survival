@@ -59,12 +59,19 @@ Pie chart showing proportion of predicted survivors vs non-survivors
 
 
 🚀 How to Run
+
 Clone the repository:
-git clone https://github.com/ShivendraNT/titanic-survival.git
+
+git clone https://github.comShivendraNTtitanic-survival.git
+
 cd titanic-survival
+
 Install dependencies:
+
 pip install -r requirements.txt
+
 Place train.csv and test.csv inside a data/ folder:
+
 titanic-survival/
 ├── data/
 │   ├── train.csv
